@@ -1,0 +1,2 @@
+class Cosm < ApplicationRecord
+end
